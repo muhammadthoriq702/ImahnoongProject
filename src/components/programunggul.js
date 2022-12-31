@@ -2,7 +2,6 @@ import React from "react";
 import Photo1 from "../images/nehen.png";
 import Photo2 from "../images/musholatorium.png";
 import Photo3 from "../images/anakanak.png";
-import Photo4 from "../images/p2mend.jpg";
 // import js from "./components/js-show-on-scroll"
 
 // import Photo5 from '../images/mokaku.jpeg'
@@ -41,10 +40,10 @@ export default function photo() {
                     <div class="mt-0">
                       <div class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                         <p class="text-sm font-semibold text-white opacity-100">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing
-                          elit. Omnis perferendis hic asperiores quibusdam
-                          quidem voluptates doloremque reiciendis nostrum harum.
-                          Repudiandae?
+                          NeHen singkatan dari Neropong bareng Hendro. Program
+                          ini merupakan salah satu kegiatan yang sering
+                          dilaksanakan pada saat kunjungan. Pak Hendro adalah
+                          Pendiri dari Imah Noong.
                         </p>
                       </div>
                     </div>
@@ -69,10 +68,7 @@ export default function photo() {
                     <div class="mt-0">
                       <div class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                         <p class="text-sm font-semibold text-white opacity-100">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing
-                          elit. Omnis perferendis hic asperiores quibusdam
-                          quidem voluptates doloremque reiciendis nostrum harum.
-                          Repudiandae?
+                        Mushollatorium adalah tempat ibadah dan pusat keagamaan. Sekaligus difungsikan sebagai Planetarium. Dimana disini kita bisa melakukan berbagai kegiatan simulasi astronomi.
                         </p>
                       </div>
                     </div>
@@ -80,7 +76,7 @@ export default function photo() {
                 </div>
                 <div class="flex justify-center ">
                   <h1 class="font-semibold font-serif relative mt-5 m-auto h-6  px-4 text-[20px] leading-6 text-black rounded-xl">
-                    Musholatorium
+                    Mushollatorium
                   </h1>
                 </div>
               </div>
@@ -97,10 +93,10 @@ export default function photo() {
                     <div class="mt-0">
                       <div class="translate-y-8 transform opacity-0 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                         <p class="text-sm font-semibold text-white opacity-100">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing
-                          elit. Omnis perferendis hic asperiores quibusdam
-                          quidem voluptates doloremque reiciendis nostrum harum.
-                          Repudiandae?
+                          NeBang singkatan dari Neropong Bareng. Program ini
+                          sering kali dilakukan ketika adanya kunjungan
+                          eduwisata. Dimana mereka melakukan kegiatan neropong
+                          bersama tim Imahnoong.
                         </p>
                       </div>
                     </div>
@@ -112,39 +108,6 @@ export default function photo() {
                   </h1>
                 </div>
               </div>
-
-              {/* <div className='hover:scale-110 transition ease-in-out delay-100'>
-                  <img
-                    src={Photo2}
-                    alt="Trainer"
-                    title="Tempat Ibadah sekaligus Planetarium"
-                    
-                    class="shadow-lg shadow-[#000000e9] -mt-3 h-[230px] w-[300px] object-cover rounded-3xl "
-                    />
-                  <div class="flex justify-center">
-                  <h1
-                    class="font-semibold font-serif relative mt-5 m-auto h-6  px-4 text-[20px] leading-6 text-black rounded-xl"
-                    >
-                    Musholatorium
-                  </h1>
-                </div>
-            </div>
-            <div className='hover:scale-110 transition ease-in-out delay-100'>
-
-                  <img
-                    src={Photo3}
-                    title="Neropong Bareng"
-                    
-                    class="shadow-lg shadow-[#000000e9]  -mt-3 h-[230px] w-[300px] object-cover rounded-3xl "
-                    />
-                  <div class="flex justify-center">
-                  <h1
-                    class="font-semibold font-serif relative mt-5 m-auto h-6  px-4 text-[20px] leading-6 text-black rounded-xl"
-                    >
-                    NeBang
-                  </h1>
-                </div>
-            </div> */}
             </div>
           </div>
         </center>

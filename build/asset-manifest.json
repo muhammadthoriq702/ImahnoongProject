@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66e76f8d.css",
+    "main.js": "/static/js/main.18de1a0e.js",
+    "static/js/787.cc1f58a0.chunk.js": "/static/js/787.cc1f58a0.chunk.js",
+    "static/media/p2mkelas.jpg": "/static/media/p2mkelas.69a445975d9bb66656ca.jpg",
+    "static/media/p2m.jpg": "/static/media/p2m.ad6a7a5ac728137cf3e3.jpg",
+    "static/media/mokaku.jpeg": "/static/media/mokaku.6aa73138747895dbec1c.jpeg",
+    "static/media/mokaku4.jpg": "/static/media/mokaku4.8f13613fb14f2e7c1d0b.jpg",
+    "static/media/p2mend.jpg": "/static/media/p2mend.b91da2948dfbd4c1474d.jpg",
+    "static/media/matcha.jpeg": "/static/media/matcha.92cce162571826a91e2a.jpeg",
+    "static/media/p2mpestarakyat.jpg": "/static/media/p2mpestarakyat.83b58fd286af42f6a523.jpg",
+    "static/media/sushiYay.jpeg": "/static/media/sushiYay.b486abc85fedf57db8ef.jpeg",
+    "static/media/mokaku3.jpeg": "/static/media/mokaku3.91078d210ed675dd99ac.jpeg",
+    "static/media/katsu.jpg": "/static/media/katsu.ebf7c980f5f998e3fbff.jpg",
+    "static/media/sushiYay3.jpeg": "/static/media/sushiYay3.e16592ceb579e5adc2da.jpeg",
+    "static/media/sushiYay2.jpg": "/static/media/sushiYay2.e83a57c86bee71280c50.jpg",
+    "static/media/ramenYa.jpeg": "/static/media/ramenYa.12ded1ec32f3a35e4ab0.jpeg",
+    "static/media/mokaku2.jpeg": "/static/media/mokaku2.13e86dc25bbc5acaf449.jpeg",
+    "static/media/perpustakaan.jpeg": "/static/media/perpustakaan.74f9b4ea6d378f7a90ed.jpeg",
+    "static/media/ar.gif": "/static/media/ar.9dc2706d74edacc39b8f.gif",
+    "static/media/armoji.png": "/static/media/armoji.5cb06be03342eccb52bb.png",
+    "static/media/instagram.png": "/static/media/instagram.0aaf11812f78361f847b.png",
+    "index.html": "/index.html",
+    "main.66e76f8d.css.map": "/static/css/main.66e76f8d.css.map",
+    "main.18de1a0e.js.map": "/static/js/main.18de1a0e.js.map",
+    "787.cc1f58a0.chunk.js.map": "/static/js/787.cc1f58a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e76f8d.css",
+    "static/js/main.18de1a0e.js"
+  ]
+}
